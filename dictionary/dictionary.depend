@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1733694819 source:c:\users\hubert\desktop\dictionary\main.cpp
+	<iostream>
+	<Dictionary.h>
+
+1733692829 c:\users\hubert\desktop\dictionary\include\dictionary.h
+	<map>
+	<iostream>
+
+1733695309 source:c:\users\hubert\desktop\dictionary\src\dictionary.cpp
+	"Dictionary.h"
+	<map>
+	<iostream>
+	<algorithm>
+	<vector>
+
