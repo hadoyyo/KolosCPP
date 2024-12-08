@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1733683009 source:c:\users\hubert\desktop\zadaniakolos\main.cpp
+	<iostream>
+	<GrupaDziekanska.h>
+
+1733683041 source:c:\users\hubert\desktop\zadaniakolos\src\grupadziekanska.cpp
+	"GrupaDziekanska.h"
+	<map>
+	<iostream>
+
+1733681800 c:\users\hubert\desktop\zadaniakolos\include\grupadziekanska.h
+	<map>
+	<iostream>
+

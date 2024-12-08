@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1733686662 source:c:\users\hubert\desktop\zadanieklasy\main.cpp
+	<iostream>
+	<bazowa.h>
+	<pochodna.h>
+
+1733686354 source:c:\users\hubert\desktop\zadanieklasy\src\bazowa.cpp
+	"bazowa.h"
+	<iostream>
+
+1733687002 c:\users\hubert\desktop\zadanieklasy\include\bazowa.h
+	<iostream>
+
+1733686920 c:\users\hubert\desktop\zadanieklasy\include\pochodna.h
+	<bazowa.h>
+	<iostream>
+
+1733686728 source:c:\users\hubert\desktop\zadanieklasy\src\pochodna.cpp
+	"pochodna.h"
+	<iostream>
+	<bazowa.h>
+
