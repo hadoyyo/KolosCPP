@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1731748615 source:c:\users\hubert\desktop\lab5\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<ctime>
+	<cmath>
+	<set>
+	<string>
+	<map>
+

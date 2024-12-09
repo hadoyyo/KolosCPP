@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1729281544 source:c:\users\hubert\desktop\lab2_hj\main.cpp
+	<iostream>
+	<Employee.h>
+	<Developer.h>
+	<TeamLeader.h>
+
+1729255617 c:\users\hubert\desktop\lab2_hj\include\employee.h
+	<iostream>
+
+1729255782 c:\users\hubert\desktop\lab2_hj\include\developer.h
+	"Employee.h"
+	<iostream>
+
+1729255677 source:c:\users\hubert\desktop\lab2_hj\src\employee.cpp
+	"Employee.h"
+	<iostream>
+
+1729255902 source:c:\users\hubert\desktop\lab2_hj\src\developer.cpp
+	"Developer.h"
+	<iostream>
+
+1729279888 c:\users\hubert\desktop\lab2_hj\include\teamleader.h
+	"Employee.h"
+	<iostream>
+
+1729281600 source:c:\users\hubert\desktop\lab2_hj\src\teamleader.cpp
+	"TeamLeader.h"
+	<iostream>
+
+1729337792 source:c:\users\hubert\desktop\lab2_hj_2.2\main.cpp
+	<iostream>
+	<Employee.h>
+	<Developer.h>
+	<TeamLeader.h>
+	<Bufor.h>
+	<MeanBufor.h>
+	<MaxBufor.h>
+
+1729255617 c:\users\hubert\desktop\lab2_hj_2.2\include\employee.h
+	<iostream>
+
+1729255782 c:\users\hubert\desktop\lab2_hj_2.2\include\developer.h
+	"Employee.h"
+	<iostream>
+
+1729279888 c:\users\hubert\desktop\lab2_hj_2.2\include\teamleader.h
+	"Employee.h"
+	<iostream>
+
+1729255902 source:c:\users\hubert\desktop\lab2_hj_2.2\src\developer.cpp
+	"Developer.h"
+	<iostream>
+
+1729255677 source:c:\users\hubert\desktop\lab2_hj_2.2\src\employee.cpp
+	"Employee.h"
+	<iostream>
+
+1729281600 source:c:\users\hubert\desktop\lab2_hj_2.2\src\teamleader.cpp
+	"TeamLeader.h"
+	<iostream>
+
+1729337792 source:c:\users\hubert\desktop\lab2_hj_2.2\src\bufor.cpp
+	"Bufor.h"
+	<iostream>
+
+1729333665 c:\users\hubert\desktop\lab2_hj_2.2\include\bufor.h
+
+1729336085 source:c:\users\hubert\desktop\lab2_hj_2.2\src\meanbufor.cpp
+	"MeanBufor.h"
+	<iostream>
+
+1729334513 c:\users\hubert\desktop\lab2_hj_2.2\include\meanbufor.h
+	"Bufor.h"
+	<iostream>
+
+1729338105 c:\users\hubert\desktop\lab2_hj_2.2\include\maxbufor.h
+	"Bufor.h"
+	<iostream>
+
+1729338287 source:c:\users\hubert\desktop\lab2_hj_2.2\src\maxbufor.cpp
+	"MaxBufor.h"
+	<iostream>
+

@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1730411566 source:c:\users\hubert\desktop\lab4\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<ctime>
+	"Citizen.h"
+	"City.h"
+
+1730404732 source:c:\users\hubert\desktop\lab4\src\citizen.cpp
+	"Citizen.h"
+	<iostream>
+
+1730404706 c:\users\hubert\desktop\lab4\include\citizen.h
+	<iostream>
+
+1730408921 source:c:\users\hubert\desktop\lab4\src\city.cpp
+	"City.h"
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	"Citizen.h"
+	<map>
+	<string>
+
+1730409128 c:\users\hubert\desktop\lab4\include\city.h
+	<iostream>
+	<Citizen.h>
+	<vector>
+	<map>
+
