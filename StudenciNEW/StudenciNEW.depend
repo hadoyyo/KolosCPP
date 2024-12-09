@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1733734454 source:c:\users\hubert\desktop\studencinew\main.cpp
+	<iostream>
+	<algorithm>
+	<map>
+	<Grupa.h>
+
+1733734686 source:c:\users\hubert\desktop\studencinew\src\grupa.cpp
+	"Grupa.h"
+	<iostream>
+	<algorithm>
+	<map>
+
+1733734476 c:\users\hubert\desktop\studencinew\include\grupa.h
+	<iostream>
+	<algorithm>
+	<map>
+
